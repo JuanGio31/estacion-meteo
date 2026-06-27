@@ -6,10 +6,8 @@
 #define VERSION "v17.5.0-mega"  // Versión con MQ136 integrado
 
 // --- Configuración WiFi y Ubidots (en PROGMEM) ---
-//const char WIFI_SSID[]      PROGMEM = "Nexxt_131C68";
-//const char WIFI_PASS[]      PROGMEM = "SalondeProfesoresI";
-const char WIFI_SSID[]      PROGMEM = "POCO_F6_PRO";
-const char WIFI_PASS[]      PROGMEM = "hola12345";
+const char WIFI_SSID[]      PROGMEM = "Nexxt_131C68";
+const char WIFI_PASS[]      PROGMEM = "SalondeProfesoresI";
 
 const char UBIDOTS_TOKEN[]  PROGMEM = "BBUS-Zj6jNCAwiJV1clMBPeTopX5kWdxx4H";
 const char DEVICE_LABEL[]   PROGMEM = "estacion_meteo";
